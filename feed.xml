@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>medicaladvices</title>
-    <link href="https://medicaladvices.api.github.com/feed.xml" rel="self" />
-    <link href="https://medicaladvices.api.github.com" />
+    <link href="https://amarse2022.github.io/medicaladvices/feed.xml" rel="self" />
+    <link href="https://amarse2022.github.io/medicaladvices" />
     <updated>2022-09-08T15:31:24+02:00</updated>
     <author>
         <name>amar</name>
     </author>
-    <id>https://medicaladvices.api.github.com</id>
+    <id>https://amarse2022.github.io/medicaladvices</id>
 
     <entry>
         <title>اشهر دكتور مسالك بولية فى بنها</title>
         <author>
             <name>amar</name>
         </author>
-        <link href="https://medicaladvices.api.github.com/shhr-dktwr-mslk-bwly-f~-bnh.html"/>
-        <id>https://medicaladvices.api.github.com/shhr-dktwr-mslk-bwly-f~-bnh.html</id>
+        <link href="https://amarse2022.github.io/medicaladvices/shhr-dktwr-mslk-bwly-f~-bnh.html"/>
+        <id>https://amarse2022.github.io/medicaladvices/shhr-dktwr-mslk-bwly-f~-bnh.html</id>
 
         <updated>2022-09-08T15:26:03+02:00</updated>
             <summary>
@@ -81,8 +81,8 @@
         <author>
             <name>amar</name>
         </author>
-        <link href="https://medicaladvices.api.github.com/tklf-aamly-lbrwstt-bltbkhyr.html"/>
-        <id>https://medicaladvices.api.github.com/tklf-aamly-lbrwstt-bltbkhyr.html</id>
+        <link href="https://amarse2022.github.io/medicaladvices/tklf-aamly-lbrwstt-bltbkhyr.html"/>
+        <id>https://amarse2022.github.io/medicaladvices/tklf-aamly-lbrwstt-bltbkhyr.html</id>
 
         <updated>2022-09-08T15:28:38+02:00</updated>
             <summary>
@@ -126,8 +126,8 @@
         <author>
             <name>amar</name>
         </author>
-        <link href="https://medicaladvices.api.github.com/tklf-lmnzr-lmrn.html"/>
-        <id>https://medicaladvices.api.github.com/tklf-lmnzr-lmrn.html</id>
+        <link href="https://amarse2022.github.io/medicaladvices/tklf-lmnzr-lmrn.html"/>
+        <id>https://amarse2022.github.io/medicaladvices/tklf-lmnzr-lmrn.html</id>
 
         <updated>2022-09-08T15:31:24+02:00</updated>
             <summary>

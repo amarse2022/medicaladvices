@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://medicaladvices.api.github.com/sitemap.xml
+Sitemap: https://amarse2022.github.io/medicaladvices/sitemap.xml
